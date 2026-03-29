@@ -1,10 +1,3 @@
-# 启动教程
-
-- 项目录屏：https://www.bilibili.com/video/BV1vw41177rR
-- 启动教程：https://www.bilibili.com/video/BV1pW4y1P7GR
-- 安装包在视频详情中已提供。
-
-
 # 项目简介
 基于Vue.js和SpringBoot的足球俱乐部管理后台，分为管理后台和用户网页端，可以给管理员、学员角色使用，包括学员管理、教师管理、课程安排、课程签到、商品信息、足球商品订单和系统基础模块，项目编号T051。
 
